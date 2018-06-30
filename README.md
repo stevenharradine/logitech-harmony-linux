@@ -5,8 +5,8 @@ Instructions for setting up and using your harmony remote in linux.  Based on th
 ```sudo ./prerequisites.sh```
 
 ## 2. Confirm remote connectivity
-1. Plug in remote
-2. ```sudo ./connect-remote.sh```
+  1. Plug in remote
+  2. ```sudo ./connect-remote.sh```
 
 ## 3. Go to logitech website for legacy support
 http://members.harmonyremote.com/EasyZapper/UserHome.asp
@@ -14,11 +14,11 @@ http://members.harmonyremote.com/EasyZapper/UserHome.asp
 ## 4. Configure your remote in the web interface
 
 ## 5. Update your remote
-1. Click "Update My Remote"
-2. Click `Next` (Connectivity.Hex will download)
-3. ```sudo congruity Connectivity.EZHex``` and follow on screen prompts
-4. Click `Next` (Update.Hex will download)
-5. ```sudo congruity Update.EZHex``` and follow on screen prompts
-6. On the site click `Yes` and `Next`
+  1. Click "Update My Remote"
+  2. Click `Next` (Connectivity.Hex will download)
+  3. ```sudo congruity Connectivity.EZHex``` and follow on screen prompts
+  4. Click `Next` (Update.Hex will download)
+  5. ```sudo congruity Update.EZHex``` and follow on screen prompts
+  6. On the site click `Yes` and `Next`
 
 ## 6. Your remote should be programmed
